@@ -1,6 +1,5 @@
 <template>
   <div>
-    <!--<Particles></Particles>-->
     <div style="width: 90%;margin: 50px auto">
       <el-divider content-position="center" class="dividers">
         <div style="color: white">
