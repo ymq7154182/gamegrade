@@ -27,7 +27,7 @@
               </el-table-column>
               <el-table-column
                 prop="count"
-                label="分数" align="center">
+                label="积分数" align="center">
               </el-table-column>
             </el-table>
           </div>
